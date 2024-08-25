@@ -1,0 +1,39 @@
+---
+title: "Analysis of the 'cars' Dataset and Visualization with Python"
+author: "Oilut"
+date: "`r Sys.Date()`"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: true
+---
+
+## Introduction
+
+This report was generated using **R Markdown**. The goal is to present a simple analysis of the `cars` dataset included with R and to demonstrate creating visualizations using Python.
+
+## Analysis of the `cars` Dataset
+
+Below are the first few rows of the `cars` dataset:
+
+```{r echo=TRUE}
+# Displaying the first few rows of the cars dataset (generic from R)
+head(cars)
+```
+
+## Python Data Science
+
+You can use whatever language you want to present here.
+
+```{python echo=TRUE}
+import matplotlib.pyplot as plt
+import numpy as np
+t = np.arange(0.0, 2.0, 0.01)
+s = 1 + np.sin(2*np.pi*t)
+plt.plot(t, s)
+plt.xlabel('time (s)')
+plt.ylabel('voltage (mV)')
+plt.grid(True)
+plt.savefig("test.png")
+plt.show()
+```
