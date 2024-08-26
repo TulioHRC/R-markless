@@ -1,4 +1,4 @@
-filename ?= test.Rmd
+filename ?= template.Rmd
 
 render:
 	Rscript -e "rmarkdown::render('$(filename)')"

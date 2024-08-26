@@ -60,6 +60,17 @@ Then, just run make dev, and 'voilà' it's working, just open the pdf file and s
 
 Just rename the filename in the Makefile, and run ```make dev``` on your project folder. Or run ```make dev filename=myfile.Rmd```.
 
+#### 6. Bonus
+
+I added a templateScript.sh file, to setup a terminal command to create new .Rmd documents from the template (also with the Makefile). Just run:
+
+```bash
+chmod +x "./templateScript.sh"
+./templateScript.sh
+```
+
+And the you can run ```Rmakeless``` to create a new document based on the template file.
+
 #### I hope you enjoyed it!
 
 ## References
