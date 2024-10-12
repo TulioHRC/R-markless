@@ -1,0 +1,130 @@
+---
+author: "Oilut"
+date: "`r Sys.Date()`"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    keep_tex: true
+fontsize: 12pt
+header-includes:
+   - \usepackage{fancyhdr}
+   - \pagestyle{fancy}
+   - \fancyhf{}
+   - \lhead{}
+   - \rhead{}
+   - \lfoot{Belo Horizonte, 2024}
+   - \cfoot{\thepage}
+   - \rfoot{Túlio Henrique Rodrigues Costa}
+---
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.15\textwidth]{a.png}
+\end{figure}
+
+\vspace{-2em} 
+
+\begin{center}
+\normalsize{\textbf{UNIVERSIDADE FEDERAL DE MINAS GERAIS}}
+
+\vspace{-0.7em}
+
+\large{\textbf{Instituto de Ciências Exatas}}
+
+\vspace{-0.5em}
+
+\large{\textbf{Departamento de Ciência da Computação}}
+
+\vspace{-0.5em}
+
+\large{\textbf{Curso de Graduação em Sistemas de Informação}}
+\end{center}
+
+\vspace{7em}
+
+\begin{center}
+\large{Túlio Henrique Rodrigues Costa}
+\end{center}
+
+\vspace{7em}
+
+\begin{center}
+\Large{\textbf{A Atual Administração de RH}}
+\end{center}
+
+\vspace{50em}
+
+\begin{center}
+\Large{\textbf{A Atual Administração de RH}}
+\end{center}
+
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+\end{minipage}
+\hfill 
+\begin{minipage}[t]{0.45\textwidth}
+    Atividade 01 apresentada à disciplina CAD 163 Administração de Recursos Humanos, do Curso de Graduação em Sistemas de Informação do Departamento de Ciência da Computação do Instituto de Ciências Exatas da UFMG, como requisito parcial para conclusão da disciplina.
+
+    \vspace{2em}
+
+    Professor: Dr. Victor Natanael Schwetter Silveira
+\end{minipage}
+
+\vspace{100em}
+
+\begin{flushleft}
+\LARGE{\textbf{Questões}}
+\end{flushleft}
+
+### 1. Descreva o que é a Administração de Recursos Humanos
+
+A administração de recursos humanos é responsável pelo processo de captação, treinamento e avaliação dos funcionários de uma empresa, além do gerenciamento de cargos e remunerações. Contudo, outros setores da empresa podem ser responsáveis pelo processo de admissão de novos funcionários, geralmente nas partes mais técnicas da seleção.
+
+### 2. Explique por que obter conhecimento e prática em RH é relevante para todos os gestores na atualidade.
+
+Para lidar melhor com o processo de gerenciamento de funcionários, otimizando seu desempenho, e também melhorar o processo de captação de talentos, para reduzir erros no processo de contratação de funcionários. Além de evitar diversos problemas judiciais relacionados à justiça do trabalho. Ademais, aprender sobre RH pode possibilitar novas oportunidades de trabalho para o gestor.
+
+### 3. Descreva a relação entre autoridade de linha e autoridade de pessoal em relação aos papéis da Administração de RH.
+
+Antes de tudo, autoridade é o direito de tomar decisões, gerenciar pessoas e comandar. A autoridade de linha cria uma relação de superior e subordinado, dando ao gestor a autoridade para emitir ordens aos seus subordinados. Já a autoridade de pessoal dá ao gestor o direito de aconselhar outros gestores e funcionários, criando um relacionamento consultivo, e não de ordens. Gestores de RH se enquadram nesse âmbito do gestor de pessoal, por aconselhar e auxiliar outros gestores de linha.
+
+### 4. Explique o que é a reorganização da função de administração de RH; descreva o que são equipes de RH transacionais, equipes especializadas, equipes generalistas, e centros de excelência.
+
+A reorganização da função de administração de RH é uma maneira diferente de organizar as funções dentro da administração de RH, proposta por Randall MacDonald, da IBM, onde se trocou o modelo de gestão tradicional de recursos humanos por um modelo de três segmentos: executivos/técnicos, gerentes e operários, com equipes separadas em diversas áreas de especialização, como, por exemplo, especialistas de recrutamento, treinamento, remuneração, etc.
+
+Essas equipes podem ser encontradas em várias configurações diferentes, como:
+
+- RH transacionais: equipes que oferecem serviços por meio de call centers centralizados e fornecedores terceiros, como forma de consultoria, geralmente focadas em serviços rotineiros e repetitivos.
+- RH especializados: onde há uma equipe dentro da empresa com um serviço mais especializado, focado nos aspectos pessoais para o plano estratégico da empresa, não no curto prazo, mas sim no longo prazo.
+- RH generalistas: são equipes menos especializadas, com responsabilidades generalizadas em todos os campos de atuação da administração de recursos humanos.
+- Centros de excelência: geralmente, são empresas de consultoria especializadas de RH, dentro de uma empresa.
+
+### 5. Descreva, em linhas gerais, cada uma das tendências que estão moldando a Administração de RH atualmente:
+
+- **Avanços tecnológicos**: O processo de captação de talentos nas empresas evoluiu com o avanço tecnológico. Empresas têm utilizado plataformas como LinkedIn e Facebook para a divulgação de vagas e processos seletivos.
+
+- **Natureza do trabalho**: Os avanços da Indústria 4.0 mudaram o modo de trabalho, substituindo tarefas repetitivas e rotineiras por trabalhos mais especializados e com maior nível de exigência técnica.
+
+- **Tendências demográficas e da força de trabalho**: A redução da taxa de natalidade, principalmente em países desenvolvidos, diminuiu a força de trabalho, exigindo adaptação das empresas e setores de RH. Uma solução é a contratação de profissionais mais velhos e estrangeiros para complementar a mão de obra.
+
+- **Globalização e competição**: A globalização aumenta a concorrência por mão de obra entre diferentes países, pressionando as remunerações para reduzir custos, principalmente devido à oferta de mão de obra mais barata em países menos desenvolvidos.
+
+- **Endividamento e desregulamentação**: Medidas de desregulamentação em diversos países aumentaram o risco de endividamento tanto para empresas quanto para pessoas, que se veem pressionadas a trabalhar mais para quitar suas dívidas.
+
+- **Desafios econômicos e tendências**: A instabilidade econômica dos últimos tempos, como a crise de 2008 e a crise da COVID-19, gera ainda mais pressão sobre os funcionários e gestores de RH.
+
+### 6. Descreva o que fazem os novos gestores de RH para lidar com as tendências e desafios atuais.
+
+Devido à necessidade de maior especialização e adaptação para lidar com os novos desafios enfrentados pelos gestores de RH na atualidade, a administração moderna de RH busca otimizar o trabalho por meio da automação de tarefas repetitivas e rotineiras. Metodologias cada vez mais avançadas são empregadas para a seleção de talentos nas companhias, e novas estratégias de engajamento de funcionários estão sendo desenvolvidas devido à mudança no perfil dos colaboradores.
+
+Uma estratégia que vem sendo empregada é a filosofia de "sistemas de trabalho de alto desempenho", que introduz um conjunto de práticas na administração de RH para melhorar o desempenho dos empregados. Além disso, gestores de RH precisam, mais do que nunca, de novas habilidades, como a formulação de planos estratégicos em conjunto com gestores de outras áreas.
+
+### 7. Cite as competências que os gestores de RH devem possuir para lidar com as tendências e desafios atuais.
+
+Segundo o professor Dave Ulrich, gerentes de recursos humanos precisam de diversos conhecimentos, habilidades e competências para se adaptarem à nova realidade do mercado. São elas:
+
+- **Posicionamento estratégico**: capacidade de auxiliar na elaboração de planos estratégicos para a empresa.
+- **Credibilidade**: capacidade de liderança para se tornarem "respeitáveis" e "ativos", de modo que sejam ouvidos e assumam posições de tomada de decisão dentro das companhias.
+- **Agentes de mudança**: iniciativa e manutenção de mudanças na empresa, de forma ativa, e não apenas seguindo ordens de superiores.
+- **Inovação**: desenvolvimento de novas metodologias para otimizar os trabalhos da administração de recursos humanos, por meio de planejamento e análise da força de trabalho.
+- **Defensores da tecnologia**: capacidade de abraçar a tecnologia para alcançar os melhores resultados possíveis.
