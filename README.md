@@ -69,7 +69,7 @@ chmod +x "./templateScript.sh"
 ./templateScript.sh
 ```
 
-And the you can run ```Rmakeless``` to create a new document based on the template file.
+And the you can run ```Rmarkless``` to create a new document based on the template file.
 
 #### I hope you enjoyed it!
 
